@@ -248,6 +248,7 @@ h1 {
     .parameter-container {
         flex-direction: column;
         gap: 20px 0;
+        padding-bottom: 6%;
     }
 
     .btn {
@@ -284,6 +285,7 @@ h1 {
         width: 100%;
         flex-direction: column;
         gap: 15px 0;
+        padding-bottom: 6%;
     }
 
     .parameter {
